@@ -5,3 +5,39 @@ JIRA: -
 - Story, Epic, Task
 - Jira + Slack (Integration)
 - Jira + Github (Integration)
+
+
+==============================================
+
+Jira is a project tracking or management tool.
+- > Project tracking is done using methodology called as Agile.
+
+Project tracking is done through Scrum.
+
+Scrum: -
+Todo
+In progress
+Testing Done
+
+=======================
+
+Todo:- 
+Create K8S cluster
+
+Setup Env
+Connect nodes
+Install K8S via kubeadm
+===============================
+
+
+KANBAN: - 
+  - Board
+  - Task
+
+SCRUM:-
+
+Sprints: have board Task to complete in 10 days or 15 days
+  goals
+  Points
+  well organized
+  focussed on internal projects
