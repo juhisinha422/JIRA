@@ -1,0 +1,22 @@
+𝐃𝐚𝐲 𝟏𝟑 𝐨𝐟 𝟗𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐃𝐞𝐯𝐎𝐩𝐬
+𝙅𝙞𝙧𝙖 𝙈𝙖𝙨𝙩𝙚𝙧𝙘𝙡𝙖𝙨𝙨 
+About Jira and its powerful role in project management.
+𝙎𝙘𝙧𝙪𝙢--> Use Scrum if your team wants to track the state of tasks, sprint cycles, and regular reviews.
+𝙆𝘼𝙉𝘽𝘼𝙉--> Use Kanban if your team prefers continuous delivery and flexible priorities.
+➡️ 𝙆𝙚𝙮 𝘾𝙤𝙣𝙘𝙚𝙥𝙩𝙨 𝙞𝙣 𝙅𝙞𝙧𝙖
+ 𝙀𝙥𝙞𝙘 --> Big goal --> Tracks large features or goals
+ 𝙎𝙩𝙤𝙧𝙮--> User need --> Describes functionality from user’s pov
+ 𝙏𝙖𝙨𝙠--> Action step --> Small to-do item assigned to someone
+ 
+➡️ 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 :
+1. 𝙅𝙞𝙧𝙖 + 𝙎𝙡𝙖𝙘𝙠: Get real-time updates on issue creation, assignment, and changes directly in Slack channels.
+ 2. 𝙅𝙞𝙧𝙖 + 𝙂𝙞𝙩𝙃𝙪𝙗: Sync commit messages and PRs with Jira issues for better traceability.
+➡️ 𝙒𝙚𝙗𝙝𝙤𝙤𝙠𝙨 𝙞𝙣 𝙅𝙞𝙧𝙖
+A webhook allows Jira to notify external services when certain events happen (like progress updates). It’s a way to connect Jira with other tools like Slack or CI/CD systems.
+ 
+➡️ 𝙎𝙡𝙖𝙘𝙠 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙎𝙩𝙚𝙥𝙨 (𝙛𝙤𝙧 𝙧𝙚𝙘𝙚𝙞𝙫𝙞𝙣𝙜 𝙥𝙧𝙤𝙜𝙧𝙚𝙨𝙨 𝙣𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨):
+1. Go to Jira Settings > System > Webhooks.
+2. Create a new webhook with the Slack Incoming Webhook URL.
+3. Select events like "Issue Created", "Issue Updated", etc.
+4. Test the webhook to ensure Slack receives updates.
+5. Customize your Slack message formatting using JSON payloads for clarity.
