@@ -1,0 +1,17 @@
+🔹 Jira Basics
+Understanding the core features of Jira — creating projects, navigating the dashboard, understanding boards (Scrum/Kanban), and using filters or views to manage work.
+
+🔹 Story, Epic, Task
+These are key issue types in Jira:
+Epic: A large body of work that can be broken down into smaller tasks.
+Story: A user requirement or feature — part of an epic.
+Task: A unit of work assigned to a team member.
+ This hierarchy helps in tracking and organizing work clearly.
+
+🔹 Jira + Slack Integration
+Connecting Jira with Slack to get instant updates, comments, and issue tracking directly in your Slack channels — making team collaboration smoother.
+
+🔹 Jira + GitHub Integration
+Linking Jira with GitHub so that commits, pull requests, and branches are automatically linked to Jira issues — great for syncing development work with project tracking.
+
+All of this makes tracking and managing projects a breeze! 💼⚙️
