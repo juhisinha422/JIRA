@@ -1,0 +1,39 @@
+What is JIRA?
+
+JIRA is a popular issue tracking and project management tool developed by Atlassian, widely used by software development, DevOps, QA, and support teams.
+
+🚀 What is JIRA Used For?
+
+Bug tracking
+Task and issue management
+Agile project management (Scrum, Kanban)
+Sprint planning and backlog grooming
+Release tracking
+Workflow automation
+
+📚 JIRA Key Concepts
+
+TermDescriptionIssueA task, bug, story, or any work itemProjectA collection of related issuesEpicA large body of work that can be broken down into smaller tasksStoryA user-centric feature or taskBugA problem or defect in the systemSprintA time-boxed development cycle in ScrumWorkflowThe process from issue creation to closureBoardVisual representation of issues (e.g., Kanban or Scrum board)
+
+🛠️ Common JIRA Use Cases:
+
+Software development teams manage sprints and track progress.
+Application support teams log and triage bugs.
+IT teams manage service requests or incidents.
+Project managers track deadlines, resources, and progress.
+
+⚙️ JIRA Integrations:
+
+JIRA integrates well with tools like:
+Confluence (documentation)
+Bitbucket/GitHub (source control)
+Slack/MS Teams (notifications)
+CI/CD tools (Jenkins, GitLab CI)
+
+🧠 Example: Ticket Workflow
+
+New Issue Created
+Assigned to Dev/Support
+Moved to "In Progress"
+Tested/Reviewed
+Marked as "Done" or "Closed"
