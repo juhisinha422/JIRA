@@ -1,0 +1,24 @@
+Day 2: Setting up jira Project
+
+How to Setup a Jira Project 
+1. Create a Jira site
+
+As a DevOps Engineer, we need to setup a site so this becomes the central place where your team can manage projects, track work, and collaborate.
+
+2. Projects → Create Project
+
+You can choose from multiple templates depending on your team's needs.
+
+Common options include:
+
+- Kanban Project – for continuous workflow management.
+- Scrum Project – for Agile teams working in sprints.
+- Project Management – for general business and project tracking needs.
+
+3. Invite Team Members
+
+Add your teammates using their email id.
+
+Once they accept the invitation, they can access the Jira workspace and collaborate on projects.
+
+Understanding Jira is important because it helps coordinate work between developers, testers, product owners, and operations teams while ensuring visibility throughout the software delivery lifecycle.
